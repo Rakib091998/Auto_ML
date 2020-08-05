@@ -1,0 +1,16 @@
+1. http://epistasislab.github.io/tpot/using/
+
+2. The goal of TPOT is to automate the building of ML pipelines by combining a 
+   flexible expression tree representation of pipelines with stochastic search 
+   algorithms such as genetic programming.
+
+3.Genetic Programming:
+          *Selection: You have a population of possible solutions to a given problem
+                     and a fitness function. At every iteration, you evaluate how to 
+                     fit each solution with your fitness function.
+
+          *Crossover: Then you select the fittest ones and perform crossover to create a
+                       new population.
+
+          *Mutation:  You take those children and mutate them with some random modification 
+                      and repeat the process until you get the fittest or best solution.

@@ -1,0 +1,7 @@
+1. Official documentaion         : https://autogluon.mxnet.io/index.html
+
+2. Installation and requirements : https://autogluon.mxnet.io/install.html
+
+3. To download shopee file       : https://autogluon.s3.amazonaws.com/datasets/shopee-iet.zip
+
+NOTE: If you do not have GPU, then you can use google colab by changing runtime type as GPU

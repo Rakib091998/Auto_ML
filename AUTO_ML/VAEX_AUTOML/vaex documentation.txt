@@ -1,0 +1,3 @@
+https://vaex.readthedocs.io/en/latest/
+
+https://pypi.org/project/vaex/

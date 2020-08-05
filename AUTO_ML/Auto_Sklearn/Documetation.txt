@@ -1,0 +1,5 @@
+1. Installation : https://automl.github.io/auto-sklearn/master/installation.html
+
+2. Official Documenation : https://automl.github.io/auto-sklearn/master/index.html
+
+3. A very basic boston regression problem is solved using Auto_Sklearn 
